@@ -1,3 +1,3 @@
-# FlightGear-simulator
+# FlightGear-Simulator
 
 https://youtu.be/XwdGtrDFWrc
